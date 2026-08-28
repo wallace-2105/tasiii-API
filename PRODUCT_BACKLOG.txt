@@ -1,0 +1,11 @@
+PB01 - inicializar o servidor
+PB02 - criat rota GET /
+PB03 - criar rota POST /chamados
+PB04 - validar titulo do chamados
+PB05 - executar os teste existentes
+
+[x]servidor
+[x]GET /
+[X]POST /chamados
+[ ]validação
+[ ]teste
